@@ -5,13 +5,13 @@ date: 2017-11-22T23:00:00.000+00:00
 page_sections:
   - template: navigation-header-w-button
     block: header-2
-    logo: "/uploads/2018/06/21/forestry-full.svg"
+    logo: "./uploads/2018/06/21/forestry-full.svg"
     navigation:
       - link: "/"
         link_text: Home
-      - link: "/about"
+      - link: "about"
         link_text: About
-      - link: "/faq"
+      - link: "faq"
         link_text: FAQs
     cta:
       url: https://www.facebook.com/groups/calmtechies/?ref=share
@@ -27,9 +27,9 @@ page_sections:
       url: https://www.facebook.com/groups/calmtechies/?ref=share
       button_text: "Join Group "
     image:
-      image: "/uploads/2018/06/21/product-shot-1.png"
+      image: "./uploads/2018/06/21/product-shot-1.png"
       alt_text: Product Shot
-    background_image: "/uploads/2018/06/21/hero-2-bg.png"
+    background_image: "./uploads/2018/06/21/hero-2-bg.png"
   - template: content-feature
     block: feature-1
     media_alignment: Left
@@ -41,7 +41,7 @@ page_sections:
       Quickly assemble and create custom sites with 16 design blocks for seven
       different sections.
     media:
-      image: "/uploads/2018/06/21/blocks-split.png"
+      image: "./uploads/2018/06/21/blocks-split.png"
       alt_text: uBuild Blocks Mock-Up
   - template: content-feature
     block: feature-1
@@ -54,7 +54,7 @@ page_sections:
       Each block comes with custom Front Matter that can be edited in
       Forestry CMS.
     media:
-      image: "/uploads/2018/06/21/edit.gif"
+      image: "./uploads/2018/06/21/edit.gif"
       alt_text: Customize Blocks
   - template: 1-column-text
     block: one-column-1
@@ -66,7 +66,7 @@ page_sections:
       create new sites and make them fully customizable.
   - template: full-width-media-element
     block: media-1
-    image: "/uploads/2018/06/21/theme.png"
+    image: "./uploads/2018/06/21/theme.png"
     caption: All Available Blocks
     slug: blocks
   - template: simple-footer

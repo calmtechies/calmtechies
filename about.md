@@ -9,9 +9,9 @@ page_sections:
     navigation:
       - link: "/"
         link_text: Home
-      - link: "/about"
+      - link: "about"
         link_text: About
-      - link: "/faq"
+      - link: "faq"
         link_text: FAQs
     cta:
       url: https://www.facebook.com/groups/calmtechies/?ref=share
@@ -26,7 +26,7 @@ page_sections:
     content:
       Our community is a place where techies connect and share about calmly navigating life and tech career with the stoic principles of Wisdom, Courage, Justice, Temperance
     media:
-      image: "/uploads/2018/06/21/edit.gif"
+      image: "./uploads/2018/06/21/edit.gif"
       alt_text: Customize Blocks
 
   - template: simple-footer
