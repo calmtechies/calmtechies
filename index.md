@@ -9,9 +9,9 @@ page_sections:
     navigation:
       - link: "/"
         link_text: Home
-      - link: "about"
+      - link: "about.html"
         link_text: About
-      - link: "faq"
+      - link: "faq.html"
         link_text: FAQs
     cta:
       url: https://www.facebook.com/groups/calmtechies/?ref=share
