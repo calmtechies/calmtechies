@@ -27,7 +27,7 @@ page_sections:
       Our community is a place where techies connect and share about calmly navigating life and tech career with the stoic principles of Wisdom, Courage, Justice, Temperance
     media:
       image: "./uploads/2018/06/21/edit.gif"
-      alt_text: Customize Blocks
+      alt_text: Customize Blocks change
 
   - template: simple-footer
     block: footer-1
